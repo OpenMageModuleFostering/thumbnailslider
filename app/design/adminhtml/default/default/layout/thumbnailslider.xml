@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <thumbnailslider_adminhtml_thumbnailslider_index>
+        <reference name="content">
+            <block type="thumbnailslider/adminhtml_thumbnailslider" name="thumbnailslider" />
+        </reference>
+    </thumbnailslider_adminhtml_thumbnailslider_index>
+</layout>
