@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 this is awesome responsive thumbnail slider.
