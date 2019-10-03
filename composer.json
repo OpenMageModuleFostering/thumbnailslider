@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Thumbnailslider",
+    "name": "OpenMageModuleFostering\/Thumbnailslider",
     "type": "magento-module",
     "license": "osl",
     "homepage": "",
     "description": "this is awesome responsive thumbnail slider.",
     "authors": [
-    {
-        "name": "dataman",
-        "email": "webadmin@dataman.in"
-    }
-],
+        {
+            "name": "dataman",
+            "email": "webadmin@dataman.in"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
